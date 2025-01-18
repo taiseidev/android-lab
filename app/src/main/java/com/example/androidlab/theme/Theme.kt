@@ -1,4 +1,4 @@
-package com.example.androidlab.ui.theme
+package com.example.androidlab.theme
 
 import android.app.Activity
 import android.os.Build
